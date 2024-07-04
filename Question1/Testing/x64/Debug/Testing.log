@@ -1,2 +1,0 @@
-﻿Testing.obj : error LNK2005: main already defined in Question2.obj
-C:\Users\saffi\source\repos\Testing\x64\Debug\Testing.exe : fatal error LNK1169: one or more multiply defined symbols found
